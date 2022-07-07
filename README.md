@@ -1,4 +1,5 @@
 # Python-portable
+
 Python 3.6 64-bit embeddable with pip
 
 ## Step-by-step Guide
@@ -9,3 +10,10 @@ Python 3.6 64-bit embeddable with pip
 4. Add `..` and `site` into `python36._pth`
 5. Add `main.py`
 6. Run `run.bat`
+
+## Advance
+
+7. Copy `tcl` and `tkinter` from `Python36` (including `~\tcl`, `~\Lib\tkinter`, `~\DLLs\_tkinter.pyd`, `~\DLLs\tcl86t.dll`, `~\DLLs\tk86t.dll`)
+8. Copy `~\Python36\Lib\idlelib` to `~\python\idlelib`
+9. pip install `idlea` for a better `IDLE`
+10. Use `IDLE.bat` to start up
