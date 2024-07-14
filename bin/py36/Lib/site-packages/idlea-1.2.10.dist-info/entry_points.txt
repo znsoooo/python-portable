@@ -1,0 +1,5 @@
+[console_scripts]
+idlea = idlealib:run
+idlea36 = idlealib:run
+idlea3664 = idlealib:run
+
