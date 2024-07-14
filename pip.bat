@@ -1,2 +1,1 @@
-@echo off
-python\python -m pip %*
+@ python -m pip %*

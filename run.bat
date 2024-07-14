@@ -1,3 +1,1 @@
-@echo off
-python\python main.py
-pause
+@ python main.py

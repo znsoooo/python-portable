@@ -1,1 +1,1 @@
-start python\pythonw -m idlealib %*
+@ python -m idlealib %*
